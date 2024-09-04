@@ -1,16 +1,19 @@
-# Título do Projeto Extremamente Aesthetic ;)
+E-Book Setembro Amarelo 
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este ebook de 5 páginas explora a história do setembro amarelo, sua importância, como buscar ajuda e outros assuntos importantes à essa temática.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
+- IA Generativa **[Leonardo AI](https://leonardo.ai)** para criar a arte visual do e-book;
+- IA Generativa **[Canva](https://canva.com)** para editar a arte criada para a capa do e-book;
+- IA Generativa **[Ideogram](https://ideogram.ai/)** para criar a tipografia para a capa do e-book;
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+O conteúdo foi gerado com auxílio do Chat GPT, que também fez a formatação do texto criado. Após, foi solicitado ao GPT um prompt para criação da capa por meio do Leonardo AI, que acertou muito bem a imagem mas errou muito nos textos. Portanto, retirei os textos que o Leonardo AI colocou na imagem e a abri no Canva, para que eu pudesse editar a imagem. Para criação da tipografia, foi utilizado a IA Ideogram.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Link para o Ebook: **[Acesse aqui](https://drive.google.com/file/d/1YARPr6GWLRpyQMuB0lzTSUKK2PcoUTXc/view?usp=sharing)**. 
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Criar algo totalmente do zero com a IA é desafiador. Muito das vezes não acontece o que esperamos ou desejamos, mas isso é uma forma também de aprender mais e otimizar as próximas criações. 
